@@ -1,0 +1,6 @@
+gradio>=6.0.0
+demucs>=4.0.0
+yt-dlp>=2025.1.15
+pydub>=0.25.1
+torch>=2.2.0
+torchaudio>=2.2.0
